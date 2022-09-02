@@ -1,0 +1,113 @@
+
+
+body{
+    background-color: rgb(111, 144, 130);
+}
+
+.in_1{
+    width: 430px;
+    height: 70px;
+    border-radius: 5px;
+    border-color: rgb(6, 3, 3);
+    border-style: outset;
+    background-color:rgb(21, 228, 80) ;
+    font-weight: bolder;
+    box-sizing: border-box;
+    padding-left: 20px;
+    font-size: larger;
+}
+
+.in_2{
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    border-style: outset;
+    color: rgb(3, 5, 4);
+    background-color: rgb(21, 228, 80);
+    border-color: rgb(12, 104, 75);
+    font-weight: bolder;
+    box-sizing: border-box;
+    font-size: larger;
+}
+.in_3{
+    width: 100px;
+    height:60px;
+    border-radius: 10px;
+    border-style: outset;
+    color: rgb(3, 5, 4);
+    background-color:rgb(252, 187, 10);
+    border-color: rgb(12, 104, 75);
+    font-weight: bolder;
+    box-sizing: border-box;
+    font-size: larger;
+}
+
+.in_2:hover{
+    background-color: rgb(12, 244, 225);
+}
+.in_3:hover{
+    background-color: rgb(252, 127, 10);
+}
+
+.in_4:hover{
+    background-color: rgb(36, 184, 237);
+}
+
+.in_4{
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    border-style: outset;
+    color: rgb(3, 5, 4);
+    background-color: rgb(138, 243, 18);
+    border-color: rgb(12, 104, 75);
+    font-weight: bolder;
+    box-sizing: border-box;
+    font-size: larger;
+}
+
+.de_l{
+    width: 415px;
+    height: 55px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: rgb(229, 241, 13);
+    color: rgb(9, 8, 8);
+    border-style: outset;
+    border-color: black;
+    box-sizing: border-box;
+    font-size: larger;
+}
+
+.de_l:hover{
+    background-color: tomato;
+}
+
+form{
+    text-align: center;
+   
+}
+.foo_t{
+    text-align: center;
+    margin-top: 10%;
+    background-color: rgb(12, 248, 208);
+    width: auto;
+    height: 25px;
+    color: rgb(19, 15, 16);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.fa-facebook{
+    color: rgb(64, 10, 10);
+    padding-left: 10px;
+
+}
+.fa-facebook:hover{
+    color:rgb(105, 88, 85);
+}
+
+
+
+
